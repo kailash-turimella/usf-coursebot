@@ -102,8 +102,6 @@ http://localhost:8080
 
 ### Example Queries
 
-- "Show me the CS courses."
-- "Which classes are on MWF?"
+- "Which CS classes are on MWF?"
 - "Can I learn guitar?"
 - "Create a calendar invite for CS110-01."
-- "List all courses taught by Peterson on TR."
