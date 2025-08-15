@@ -105,3 +105,6 @@ http://localhost:8080
 - "Which CS classes are on MWF?"
 - "Can I learn guitar?"
 - "Create a calendar invite for CS110-01."
+
+
+<img width="1498" height="844" alt="AI Chatbot Example" src="https://github.com/user-attachments/assets/aff0470f-bee2-4746-8132-57bc1798aca2" />
